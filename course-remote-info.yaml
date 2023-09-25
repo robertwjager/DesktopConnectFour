@@ -1,0 +1,183 @@
+hyperskill_project:
+  id: 226
+  ide_files: https://cogniterra.org/media/attachments/lesson/26158/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Mon, 25 Sep 2023 07:20:54 UTC"
+stages:
+- id: 1132
+  step: 17267
+  is_completed: true
+- id: 1133
+  step: 17268
+  is_completed: true
+- id: 1134
+  step: 17269
+  is_completed: true
+- id: 1135
+  step: 17270
+  is_completed: true
+topics:
+  0:
+  - title: Modulo division
+    theory_id: 10586
+  - title: Computer algorithms
+    theory_id: 16547
+  - title: The big O notation
+    theory_id: 16699
+  - title: "Best, average and worst cases"
+    theory_id: 20084
+  - title: Data structures
+    theory_id: 16927
+  - title: Introduction to UI/UX
+    theory_id: 14603
+  - title: The basic window in Swing
+    theory_id: 5514
+  - title: Interface elements
+    theory_id: 15253
+  - title: Layout managers
+    theory_id: 6824
+  - title: Pseudocode
+    theory_id: 15090
+  - title: Pseudocode basics
+    theory_id: 19510
+  - title: Complex constructions in pseudocode
+    theory_id: 20922
+  - title: Fixed-size array
+    theory_id: 20078
+  - title: Dynamic array
+    theory_id: 5357
+  - title: Introduction to Swing components
+    theory_id: 6295
+  - title: Introduction to Java
+    theory_id: 3500
+  - title: Types and variables
+    theory_id: 3518
+  - title: Arithmetic operations
+    theory_id: 3519
+  - title: Integer types and operations
+    theory_id: 3565
+  - title: Boolean and logical operations
+    theory_id: 3516
+  - title: Relational operators
+    theory_id: 3512
+  - title: Conditional statement
+    theory_id: 3503
+  - title: The while and do-while loops
+    theory_id: 3498
+  - title: The for-loop
+    theory_id: 3505
+  - title: Branching statements
+    theory_id: 3507
+  - title: Switch statement
+    theory_id: 3504
+  - title: Sizes and ranges
+    theory_id: 3532
+  - title: Type casting
+    theory_id: 3510
+  - title: Calling a method
+    theory_id: 10973
+  - title: Declaring a method
+    theory_id: 10982
+  - title: The main method
+    theory_id: 3489
+  - title: Functional decomposition
+    theory_id: 10570
+  - title: Primitive and reference types
+    theory_id: 5035
+  - title: Array
+    theory_id: 3511
+  - title: Iterating over arrays
+    theory_id: 3602
+  - title: Characters
+    theory_id: 3514
+  - title: String
+    theory_id: 3523
+  - title: Final variables
+    theory_id: 7427
+  - title: What is an exception
+    theory_id: 3497
+  - title: Hierarchy of exceptions
+    theory_id: 3570
+  - title: Exception handling
+    theory_id: 3552
+  - title: Throwing exceptions
+    theory_id: 3553
+  - title: Custom exceptions
+    theory_id: 15639
+  - title: What is a bug
+    theory_id: 5504
+  - title: Multidimensional array
+    theory_id: 1933
+  - title: Introduction to logging
+    theory_id: 5538
+  - title: Debugging techniques
+    theory_id: 13775
+  - title: "Hashing: overview"
+    theory_id: 9831
+  - title: Hash function
+    theory_id: 30143
+  - title: Hash table
+    theory_id: 13054
+  - title: Introduction to generic programming
+    theory_id: 3492
+  - title: Generics and Object
+    theory_id: 3493
+  - title: Lambda expressions
+    theory_id: 11635
+  - title: What are collections
+    theory_id: 3770
+  - title: The Collections Framework overview
+    theory_id: 3624
+  - title: Method references
+    theory_id: 3620
+  - title: Functional interfaces
+    theory_id: 11636
+  - title: ArrayList
+    theory_id: 3567
+  - title: The List interface
+    theory_id: 3581
+  - title: The Set interface
+    theory_id: 3575
+  - title: The Map interface
+    theory_id: 3558
+  - title: Defining classes
+    theory_id: 3618
+  - title: Instance methods
+    theory_id: 3495
+  - title: Constructor
+    theory_id: 3535
+  - title: Access modifiers
+    theory_id: 3589
+  - title: Getters and setters
+    theory_id: 3599
+  - title: Inheritance
+    theory_id: 3583
+  - title: The keyword super
+    theory_id: 3588
+  - title: Objects
+    theory_id: 4727
+  - title: Static members
+    theory_id: 3534
+  - title: Hiding and overriding
+    theory_id: 3572
+  - title: Polymorphism
+    theory_id: 3587
+  - title: Interface
+    theory_id: 3615
+  - title: Anonymous classes
+    theory_id: 11896
+  - title: Boxing and unboxing
+    theory_id: 3595
+  1:
+  - title: Window listeners
+    theory_id: 10614
+  2:
+  - title: Introduction to OOP
+    theory_id: 3614
+  - title: The concept of patterns
+    theory_id: 3611
+  - title: Template method
+    theory_id: 5155
+  - title: Abstract class
+    theory_id: 3597

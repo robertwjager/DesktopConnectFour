@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Desktop Connect Four/task/build/
+/Desktop Connect Four/task/out/
+/Desktop Connect Four/task/out/production/classes/
+/Topics/Template method/Build a house/out/
+/Topics/Template method/Build a house/out/production/classes/
+/Topics/Template method/Career/out/
+/Topics/Template method/Career/out/production/classes/
+/Topics/The Map interface/Creating a map/out/
+/Topics/The Map interface/Creating a map/out/production/classes/
+/Topics/The Map interface/Modifying a map/out/
+/Topics/The Map interface/Modifying a map/out/production/classes/
